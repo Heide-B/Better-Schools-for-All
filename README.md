@@ -11,6 +11,6 @@ Thank you to Eskwelabs and our Mentor Justine Padayao!
 <br>
 <br>
 **Feel free to contact us:**
-<br>Heide - heidemlbalcera@gmail.com
 <br>AJ - ajloconer@gmail.com   
-
+<br>Bym - robertobuhain@gmail.com
+<br>Heide - heidemlbalcera@gmail.com
