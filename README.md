@@ -1,4 +1,4 @@
-# DS_Cohort7_Sprint01_Team4
+# Data Stories behind Philippines Schools
 As part of Eskwelabs Data Science fellowship program, the Team 4 of Cohort 7 created a sprint output. You may find the files in this repository.
 
 **Check out our output/app here!**
